@@ -10,5 +10,3 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=NullPoiinter&show_icons=true&theme=algolia" height="165px">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullPoiinter&show_icons=true&theme=algolia" height="165px">
 </p>
-
-![Metrics](https://metrics.lecoq.io/NullPoiinter?template=classic&activity=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=America%2FSao_Paulo)
