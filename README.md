@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋!</h1>
 <h3 align="center">I'm a Java and Kotlin Developer</h3>
 
-rning Android development<br>
 - 🤔 I'm thinking to learn Frontend, Go and Rust<br>
 - 📫 How to reach me<br>
   * **Discord**: 𐋃⁰ Ghostly#0970 <br>
