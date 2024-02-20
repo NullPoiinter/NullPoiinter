@@ -3,7 +3,7 @@
 
 - 🤔 I'm thinking to learn Frontend, Go and Rust<br>
 - 📫 How to reach me<br>
-  * **Discord**: 𐋃⁰ Ghostly#0970 <br>
+  * **Discord**:  <br>
 
 <p align="center">
 	<br>
